@@ -20,6 +20,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.Select;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -29,17 +30,18 @@ public class BaseClass {
 	public static WebDriver driver ;
 	
 	public static void launchBrowser(String browser) {
-		
+		ChromeOptions co = new ChromeOptions();
+		co.addArguments("Headless");
 		switch(browser) {
 		
 		case "chrome" :	
 			WebDriverManager.chromedriver().setup();
-			driver = new ChromeDriver();
+			driver = new ChromeDriver(co);
 			break;
 		
 		case "firefox" :
 			WebDriverManager.chromedriver().setup();
-			driver = new ChromeDriver();
+			driver = new ChromeDriver(co);
 			break;
 			
 		default:
