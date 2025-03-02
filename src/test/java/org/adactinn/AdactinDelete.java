@@ -201,20 +201,7 @@ if (driver.getCurrentUrl().equals("https://adactinhotelapp.com/HotelAppBuild2/Bo
 //	System.out.println("password "+ password);
 //}
 
-//	   <build>
-//       <plugins>
-//           <plugin>
-//               <groupId>org.apache.maven.plugins</groupId>
-//               <artifactId>maven-surefire-plugin</artifactId>
-//               <version>2.22.2</version>
-//               <configuration>
-//                   <suiteXmlFiles>
-//                       <suiteXmlFile>src/test/resources/adatestng.xml</suiteXmlFile>
-//                   </suiteXmlFiles>
-//               </configuration>
-//           </plugin>
-//       </plugins>
-//   </build>
+
 
 
 
