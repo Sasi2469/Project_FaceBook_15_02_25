@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="38774" started-at="2025-03-02T11:05:55Z" finished-at="2025-03-02T11:06:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="38774" started-at="2025-03-02T11:05:55Z" finished-at="2025-03-02T11:06:34Z">
+      <class name="org.adactinn.AdactinDelete">
+        <test-method status="PASS" signature="beforClass()[pri:0, instance:org.adactinn.AdactinDelete@5afa04c]" name="beforClass" is-config="true" duration-ms="6501" started-at="2025-03-02T11:05:55Z" finished-at="2025-03-02T11:06:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.adactinn.AdactinDelete@5afa04c]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2025-03-02T11:06:02Z" finished-at="2025-03-02T11:06:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:org.adactinn.AdactinDelete@5afa04c]" name="Test1" duration-ms="2155" started-at="2025-03-02T11:06:02Z" finished-at="2025-03-02T11:06:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.adactinn.AdactinDelete@5afa04c]" name="afterMethod" is-config="true" duration-ms="0" started-at="2025-03-02T11:06:04Z" finished-at="2025-03-02T11:06:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.adactinn.AdactinDelete@5afa04c]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2025-03-02T11:06:04Z" finished-at="2025-03-02T11:06:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:org.adactinn.AdactinDelete@5afa04c]" name="Test2" duration-ms="3192" started-at="2025-03-02T11:06:04Z" finished-at="2025-03-02T11:06:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.adactinn.AdactinDelete@5afa04c]" name="afterMethod" is-config="true" duration-ms="2" started-at="2025-03-02T11:06:07Z" finished-at="2025-03-02T11:06:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:org.adactinn.AdactinDelete@5afa04c]" name="Test3" duration-ms="1111" started-at="2025-03-02T11:06:07Z" finished-at="2025-03-02T11:06:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.adactinn.AdactinDelete@5afa04c]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2025-03-02T11:06:07Z" finished-at="2025-03-02T11:06:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.adactinn.AdactinDelete@5afa04c]" name="afterMethod" is-config="true" duration-ms="2" started-at="2025-03-02T11:06:08Z" finished-at="2025-03-02T11:06:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.adactinn.AdactinDelete@5afa04c]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2025-03-02T11:06:08Z" finished-at="2025-03-02T11:06:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test4()[pri:0, instance:org.adactinn.AdactinDelete@5afa04c]" name="Test4" duration-ms="8575" started-at="2025-03-02T11:06:08Z" finished-at="2025-03-02T11:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.adactinn.AdactinDelete@5afa04c]" name="afterMethod" is-config="true" duration-ms="3" started-at="2025-03-02T11:06:17Z" finished-at="2025-03-02T11:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.adactinn.AdactinDelete@5afa04c]" name="beforeMethod" is-config="true" duration-ms="4" started-at="2025-03-02T11:06:17Z" finished-at="2025-03-02T11:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test5()[pri:0, instance:org.adactinn.AdactinDelete@5afa04c]" name="Test5" duration-ms="17172" started-at="2025-03-02T11:06:17Z" finished-at="2025-03-02T11:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test5 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.adactinn.AdactinDelete@5afa04c]" name="afterMethod" is-config="true" duration-ms="0" started-at="2025-03-02T11:06:34Z" finished-at="2025-03-02T11:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="Afterclass()[pri:0, instance:org.adactinn.AdactinDelete@5afa04c]" name="Afterclass" is-config="true" duration-ms="1" started-at="2025-03-02T11:06:34Z" finished-at="2025-03-02T11:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Afterclass -->
+      </class> <!-- org.adactinn.AdactinDelete -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

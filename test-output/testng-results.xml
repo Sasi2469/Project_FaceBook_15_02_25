@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45571" started-at="2025-03-02T10:49:11Z" finished-at="2025-03-02T10:49:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45571" started-at="2025-03-02T10:49:11Z" finished-at="2025-03-02T10:49:56Z">
+      <class name="org.adactinn.AdactinDelete">
+        <test-method status="PASS" signature="beforClass()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="beforClass" is-config="true" duration-ms="14515" started-at="2025-03-02T10:49:11Z" finished-at="2025-03-02T10:49:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforClass -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="Test1" duration-ms="1708" started-at="2025-03-02T10:49:25Z" finished-at="2025-03-02T10:49:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2025-03-02T10:49:25Z" finished-at="2025-03-02T10:49:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="afterMethod" is-config="true" duration-ms="5" started-at="2025-03-02T10:49:27Z" finished-at="2025-03-02T10:49:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2025-03-02T10:49:27Z" finished-at="2025-03-02T10:49:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="Test2" duration-ms="2819" started-at="2025-03-02T10:49:27Z" finished-at="2025-03-02T10:49:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="afterMethod" is-config="true" duration-ms="0" started-at="2025-03-02T10:49:30Z" finished-at="2025-03-02T10:49:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="Test3" duration-ms="1036" started-at="2025-03-02T10:49:30Z" finished-at="2025-03-02T10:49:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2025-03-02T10:49:30Z" finished-at="2025-03-02T10:49:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="afterMethod" is-config="true" duration-ms="0" started-at="2025-03-02T10:49:31Z" finished-at="2025-03-02T10:49:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2025-03-02T10:49:31Z" finished-at="2025-03-02T10:49:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test4()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="Test4" duration-ms="8220" started-at="2025-03-02T10:49:31Z" finished-at="2025-03-02T10:49:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="afterMethod" is-config="true" duration-ms="0" started-at="2025-03-02T10:49:39Z" finished-at="2025-03-02T10:49:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="Test5()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="Test5" duration-ms="16854" started-at="2025-03-02T10:49:39Z" finished-at="2025-03-02T10:49:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test5 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2025-03-02T10:49:39Z" finished-at="2025-03-02T10:49:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="afterMethod" is-config="true" duration-ms="2" started-at="2025-03-02T10:49:56Z" finished-at="2025-03-02T10:49:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2025-03-02T10:49:56Z" finished-at="2025-03-02T10:49:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test6(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="test6" duration-ms="6" started-at="2025-03-02T10:49:56Z" data-provider="URL" finished-at="2025-03-02T10:49:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sasi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sasi@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sasi@7647]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="afterMethod" is-config="true" duration-ms="0" started-at="2025-03-02T10:49:56Z" finished-at="2025-03-02T10:49:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2025-03-02T10:49:56Z" finished-at="2025-03-02T10:49:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test6(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="test6" duration-ms="4" started-at="2025-03-02T10:49:56Z" data-provider="URL" finished-at="2025-03-02T10:49:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sai]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kirar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kiars@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kiysi@7647]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="afterMethod" is-config="true" duration-ms="4" started-at="2025-03-02T10:49:56Z" finished-at="2025-03-02T10:49:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="Afterclass()[pri:0, instance:org.adactinn.AdactinDelete@3f49dace]" name="Afterclass" is-config="true" duration-ms="0" started-at="2025-03-02T10:49:56Z" finished-at="2025-03-02T10:49:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Afterclass -->
+      </class> <!-- org.adactinn.AdactinDelete -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
